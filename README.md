@@ -21,7 +21,7 @@ Playwright를 사용해 동적 페이지를 순회하고, 각 상세 페이지�
 ## 📁 프로젝트 구조
 
 ```text
-crolling/
+crawling/
 ├─ crawl_chungnam_free_speeches.py
 ├─ README.md
 └─ output_chungnam_free/
